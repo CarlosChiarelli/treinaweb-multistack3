@@ -1,0 +1,29 @@
+# Instalação global expo
+
+npm i -g expo-cli
+
+
+# Início projeto
+
+expo init e-diaristas-mobile
+
+-> blank (typescript)
+
+
+# Após arquivos config
+
+npm i @emotion/react @emotion/native axios @react-navigation/native react-native-masked-text
+
+npm i react-native-paper
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view @react-navigation/stack
+
+npm i react-native-ratings
+
+expo install expo-location
+
+# Iniciar app
+
+npm start
+
+É possível usar o app "expo" da Play Store e usar o app.
